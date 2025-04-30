@@ -1,16 +1,36 @@
-## Hi there 👋
+👋 नमस्कार, Welcome to VIP Tech!
 
-<!--
-**viptech-1010/viptech-1010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Prashant Magar – Full Stack Developer 👨‍💻
 
-Here are some ideas to get you started:
+🚀 Founder @ VIP Tech | Teaching Programming in Marathi  
+💻 Skills: HTML, CSS, JS, React.js, Node.js, MySQL, REST APIs, JWT, JSON  
+🌐 Freelancer | Project Consultant | Educator
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+🔧 My Tech Stack  
+- **Frontend**: HTML, CSS, Bootstrap, JavaScript, jQuery, React.js  
+- **Backend**: Node.js, Express.js, REST APIs  
+- **Database**: MySQL  
+- **Others**: JWT, JSON, API Integration
+
+---
+
+📂 Featured Projects
+
+| Project | Tech | Description |
+|--------|------|-------------|
+| Portfolio Website | HTML, CSS, JS | Personal responsive portfolio site |
+| CRUD API | Node.js, MySQL | API with JWT Auth and DB operations |
+| Admin Dashboard | React.js | Login/Auth, protected routes, API calls |
+
+---
+
+📫 Contact Me
+
+- 📧 Email: viptech1010@gmail.com  
+- 📱 Phone: +91 9172941329  
+
+---
+
+> “Learning in your language is the best way to grow – Code with VIP Tech Marathi!”
